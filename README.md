@@ -1,7 +1,7 @@
 # SIH-2025-frontend
 The frontend of the Rainwater Harvesting Website, AquaRecharge
 
-Overview
+Overview:
 A user-friendly web application designed to help individuals and communities assess the feasibility and details of rooftop rainwater harvesting and artificial groundwater recharge. By inputting basic site data, users receive personalized recommendations, GIS mapping, and actionable guides tailored to their location and needs.
 
 Features
@@ -14,5 +14,5 @@ Features
 - Regional language support for accessibility
 - Localized FAQs and step-by-step implementation guides
 
-Tech Stack
+Tech Stack:
 List frontend framework (React.js), GIS mapping library (Leaflet/Mapbox), backend (Node.js), and any APIs (weather, GIS).
